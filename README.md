@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - :fireworks: I’m looking for a FrontEnd or FullStack Web Development Job! :fireworks:
-- 🔭 I’m currently working on my BackEnd Web Development Certificate :mortar_board:
-- 🌱 I’m currently learning BackEnd Web Development currently focusing on SpringBoot, and learning how to speak Japanese
+- 🔭 I’m currently working on as a BackEnd and FrontEnd Development Mentor and grader at Promineo Tech :mortar_board:
+- 🌱 I earned my BackEnd Web Development Certificate, now I am learning Blender, Chinese, and learning how to speak Japanese
 - :star: I spend my time programming :computer:, drawing :pencil:, character designing :art:, singing :musical_score:, playing videogames :video_game:, and playing tabletop RPGs :game_die: 
 - 💬 Ask me about front end programming, back end programming, or character design I love helping others learn more.
 - 📫 How to reach me: LinkedIn, https://www.linkedin.com/in/jolene-melanson333/
